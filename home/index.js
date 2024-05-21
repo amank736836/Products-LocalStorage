@@ -225,16 +225,16 @@ function storeToLocalStorage(){
 //redirects
 
 function redirectToCart(){
-    window.location.href = '../Cart/cart.html';
+    window.location.href = './Cart/cart.html';
 }
 function redirectToHome() {
-    window.location.href = '../home/index.html';
+    window.location.href = './home/index.html';
 }
 function redirectToLogin() {
-    window.location.href = '../login/login.html';
+    window.location.href = './login/login.html';
 }
 function redirectToSignup() {
-    window.location.href = '../signup/signup.html';
+    window.location.href = './signup/signup.html';
 }
 
 //////////////////////////////////////////////////////////////////////////
