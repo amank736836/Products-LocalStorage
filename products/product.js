@@ -198,7 +198,7 @@ function delete_item(e){
 //redirects
 
 function redirectToHome() {
-    window.location.href = '../home/index.html';
+    window.location.href = '../index.html';
 }
 function redirectToProducts() {
     window.location.href = '../products/product.html';

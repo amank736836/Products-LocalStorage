@@ -228,7 +228,7 @@ function redirectToCart(){
     window.location.href = './Cart/cart.html';
 }
 function redirectToHome() {
-    window.location.href = './home/index.html';
+    window.location.href = './index.html';
 }
 function redirectToLogin() {
     window.location.href = './login/login.html';

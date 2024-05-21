@@ -289,7 +289,7 @@ function redirectToDeliver(){
     window.location.href = '../Cart/deliver.html';
 }
 function redirectToHome() {
-    window.location.href = '../home/index.html';
+    window.location.href = '../index.html';
 }
 
 //////////////////////////////////////////////////////////////////////////
